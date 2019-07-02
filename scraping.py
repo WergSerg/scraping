@@ -130,8 +130,6 @@ try:
             elif name_ =='arts_info' :
                 self.get_arts_info (text,city_name,page)
     
-     
-    #модуль парса входного html для получения групп
         
         def get_art_grp (self,text,city_name):
             ttt=[]
